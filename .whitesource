@@ -8,11 +8,12 @@
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff",
-    "enableLicenseViolations": true,
+    "enableLicenseViolations": "true",
     "licenseCheckRunConclusionLevel": "failure"
   },
   "issueSettings": {
     "minSeverityLevel": "NONE",
-    "issueType": "VULNERABILITY"
+    "issueType": "VULNERABILITY",
+    "displayLicenseViolations": "true"
   }
 }
