@@ -12,6 +12,7 @@
     "licenseCheckRunConclusionLevel": "failure"
   },
   "issueSettings": {
-    "minSeverityLevel": "LOW"
+    "minSeverityLevel": "LOW",
+    "issueType": "VULNERABILITY"
   }
 }
