@@ -12,12 +12,6 @@
     "licenseCheckRunConclusionLevel": "failure"
   },
   "issueSettings": {
-    "minSeverityLevel": "LOW",
-    "issueType": "DEPENDENCY"
-  },
-  "remediateSettings": {
-    "workflowRules": {
-      "enabled": true
-    }
+    "minSeverityLevel": "LOW"
   }
 }
