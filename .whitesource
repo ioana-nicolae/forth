@@ -7,13 +7,12 @@
     "baseBranches": []
   },
   "checkRunSettings": {
-    "vulnerableCheckRunConclusionLevel": "success",
+    "vulnerableCheckRunConclusionLevel": "none",
     "displayMode": "diff",
     "licenseCheckRunConclusionLevel": "failure"
   },
   "issueSettings": {
     "minSeverityLevel": "NONE",
-    "issueType": "VULNERABILITY",
-    "displayLicenseViolations": true
+    "issueType": "VULNERABILITY"
   }
 }
