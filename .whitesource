@@ -6,9 +6,9 @@
     "baseBranches": []
   },
   "checkRunSettings": {
-    "vulnerableCheckRunConclusionLevel": "NONE",
+    "vulnerableCheckRunConclusionLevel": "success",
     "displayMode": "diff",
-    "enableLicenseViolations": "TRUE",
+    "enableLicenseViolations": "true",
     "licenseCheckRunConclusionLevel": "failure"
   },
   "issueSettings": {
